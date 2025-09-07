@@ -32,7 +32,7 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNrZGpuYWgyYWhiM2VteDI2MWxqdnNnbGFhZDZzNXQ4a3lkcWs2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500" alt="Coding man GIF"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdvZGc0eTIxdjRzNDQ4MmxybWM2Mmk4bm04Mmt0M3R3dGl5aDB4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif" width="500" alt="Coding man GIF"/>
 </p>
 
 ---
