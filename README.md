@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="/logo.png" alt="Marco Amantea — Web Developer & Web Designer" width="100%"/>
+  <img src="/banner.svg" alt="Marco Amantea — Web Developer & Web Designer" width="100%"/>
 </p>
 
 <!-- Typing intro -->
