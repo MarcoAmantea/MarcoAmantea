@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Marco Amantea — Web Developer & Web Designer" width="100%"/>
+  <img src="/logo.png" alt="Marco Amantea — Web Developer & Web Designer" width="100%"/>
 </p>
 
 <!-- Typing intro -->
@@ -122,9 +122,10 @@
 
 ## Contatti
 
-- Email: hello@marcoamantea.dev
-- Sito: https://marcoamantea.dev
-- LinkedIn: https://www.linkedin.com/in/marcoamantea
+- Email: marcoamanteadeveloper@gmail.com
+- Pec: marcoamanteadev@pec.it
+- Sito: https://marcoamantea.it/
+- LinkedIn: https://www.linkedin.com/in/marco-amantea/
 
 ---
 
