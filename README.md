@@ -7,8 +7,8 @@
 <!-- TYPING INTRO -->
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=14B8A6&center=true&vCenter=true&width=1000&lines=Ciao%2C+sono+Marco+Amantea;Web+Developer+e+Web+Designer;Frontend+%2B+UI%2FUX;Design+System+%2B+Performance" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=14B8A6&center=true&vCenter=true&width=1000&lines=Ciao%2C+sono+Marco+Amantea;Web+Developer+e+Web+Designer;Frontend+%2B+UI%2FUX;Design+System+%2B+Performance" alt="Typing SVG"/>
+  <a href="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=14B8A6&center=true&vCenter=true&width=1000&lines=Ciao%2C+sono+Marco+Amantea;Web+Developer+e+Web+Designer;Frontend+%2B+UI%2FUX;Design+System+%2B+Performance;Progetti+Moderni+%2B+Interattivi" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=14B8A6&center=true&vCenter=true&width=1000&lines=Ciao%2C+sono+Marco+Amantea;Web+Developer+e+Web+Designer;Frontend+%2B+UI%2FUX;Design+System+%2B+Performance;Progetti+Moderni+%2B+Interattivi" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -61,32 +61,22 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 ## 🌟 Progetti Importanti
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding:20px;">
-        <img src="/public/password-goblin.png" alt="App Password Goblin" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-        <h3>App Password Goblin</h3>
-        <p>Tool sicuro per la gestione delle password</p>
-      </td>
-      <td align="center" style="padding:20px;">
-        <img src="/public/subzilla.png" alt="App Subzilla" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-        <h3>App Subzilla</h3>
-        <p>Applicazione mobile per la gestione degli abbonamenti</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding:20px;">
-        <img src="/public/mudif.png" alt="Restyling sito mudif" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-        <h3>Restyling Sito MuDiF</h3>
-        <p>Rinnovamento completo del sito del Museo Didattico della Fotografia con Wordpress e codice scritto da zero con Elementor</p>
-      </td>
-      <td align="center" style="padding:20px;">
-        <img src="/public/artenauta.png" alt="Sito Artenauta Teatro" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-        <h3>Sito Artenauta Teatro</h3>
-        <p>Piattaforma digitale per la compagnia teatrale Artenauta</p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAmantea&repo=password-goblin&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAmantea&repo=subzilla&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAmantea&repo=mudif-restyling&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAmantea&repo=artenauta-teatro&theme=radical"/>
+</p>
+
+---
+
+## 🎮 Extra Interattivi
+
+<p align="center">
+  <img src="https://github.com/MarcoAmantea/MarcoAmantea/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=14b8a6" alt="Now Playing"/>
 </p>
 
 ---
@@ -104,12 +94,13 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcoAmantea&theme=flat&no-frame=true&margin-w=8" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MarcoAmantea&theme=onestar&no-frame=true&margin-w=8" alt="Trophies"/>
 </p>
 
 ---
 
 ## 🤝 Contatti
+
 <p align="center">
   <img src="/public/contact.png" alt="Contatti" width="300" style="border-radius:20px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
 </p>
@@ -118,5 +109,3 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
   <a href="https://marcoamantea.it"><img src="https://img.shields.io/badge/Sito-Visita-6366f1?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/marco-amantea/"><img src="https://img.shields.io/badge/LinkedIn-Connettiti-0a66c2?style=for-the-badge"/></a>
 </p>
-
-
