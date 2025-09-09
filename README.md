@@ -40,14 +40,14 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="margin:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" style="margin:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" style="margin:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin:15px;"/>
 </p>
 
 <p align="center">
@@ -60,22 +60,26 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 
 ## 🌟 Progetti Importanti
 
-<div align="center" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px,1fr)); gap:30px;">
-  <div>
-    <img src="/public/mudif.png" alt="Restyling sito MuDiF" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-    <p><strong>Restyling sito MuDiF</strong><br/>Rinnovamento del Museo Didattico della Fotografia con WordPress ed Elementor</p>
+<div align="center" style="display:grid; grid-template-columns:repeat(2, 1fr); gap:40px;">
+  <div style="background:#111827; padding:20px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.4); transition:transform 0.3s;">
+    <img src="/public/mudif.png" alt="Restyling sito MuDiF" width="100%" style="border-radius:15px;"/>
+    <h3 style="color:#14B8A6;">Restyling sito MuDiF</h3>
+    <p style="color:#d1d5db;">Rinnovamento del Museo Didattico della Fotografia con WordPress ed Elementor</p>
   </div>
-  <div>
-    <img src="/public/subzilla.png" alt="App Subzilla" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-    <p><strong>App Subzilla</strong><br/>Applicazione mobile per la gestione degli abbonamenti</p>
+  <div style="background:#111827; padding:20px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.4); transition:transform 0.3s;">
+    <img src="/public/subzilla.png" alt="App Subzilla" width="100%" style="border-radius:15px;"/>
+    <h3 style="color:#14B8A6;">App Subzilla</h3>
+    <p style="color:#d1d5db;">Applicazione mobile per la gestione degli abbonamenti</p>
   </div>
-  <div>
-    <img src="/public/password-goblin.png" alt="App Password Goblin" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-    <p><strong>App Password Goblin</strong><br/>Tool sicuro per la gestione delle password</p>
+  <div style="background:#111827; padding:20px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.4); transition:transform 0.3s;">
+    <img src="/public/password-goblin.png" alt="App Password Goblin" width="100%" style="border-radius:15px;"/>
+    <h3 style="color:#14B8A6;">App Password Goblin</h3>
+    <p style="color:#d1d5db;">Tool sicuro per la gestione delle password</p>
   </div>
-  <div>
-    <img src="/public/artenauta.png" alt="Sito Artenauta Teatro" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-    <p><strong>Sito Artenauta Teatro</strong><br/>Piattaforma digitale per la compagnia teatrale Artenauta</p>
+  <div style="background:#111827; padding:20px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.4); transition:transform 0.3s;">
+    <img src="/public/artenauta.png" alt="Sito Artenauta Teatro" width="100%" style="border-radius:15px;"/>
+    <h3 style="color:#14B8A6;">Sito Artenauta Teatro</h3>
+    <p style="color:#d1d5db;">Piattaforma digitale per la compagnia teatrale Artenauta</p>
   </div>
 </div>
 
@@ -100,13 +104,13 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 ---
 
 ## 🤝 Contatti
-
+<p align="center">
+  <img src="/public/contact.png" alt="Contatti" width="400" style="border-radius:20px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
+</p>
 <p align="center">
   <a href="mailto:marcoamanteadeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Scrivimi-0ea5e9?style=for-the-badge"/></a>
   <a href="https://marcoamantea.it"><img src="https://img.shields.io/badge/Sito-Visita-6366f1?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/marco-amantea/"><img src="https://img.shields.io/badge/LinkedIn-Connettiti-0a66c2?style=for-the-badge"/></a>
 </p>
 
-<p align="center">
-  <img src="/public/contact.png" alt="Contatti" width="400" style="border-radius:20px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-</p>
+
