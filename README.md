@@ -27,7 +27,7 @@
 ## 🚀 Chi sono
 
 <p align="center">
-Creo interfacce moderne, accessibili e performanti. Mi piace trasformare idee in esperienze digitali fluide e curate nei dettagli.<br/>
+Creo interfacce moderne, accessibili e performanti. Trasformo idee in esperienze digitali fluide e curate nei dettagli.<br/>
 React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 </p>
 
@@ -55,6 +55,24 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
   <img src="https://img.shields.io/badge/Accessibilità-ARIA_ready-0ea5e9?style=flat-square"/>
   <img src="https://img.shields.io/badge/Design_System-scalabile-6366f1?style=flat-square"/>
 </p>
+
+---
+
+## 🌟 Progetti Importanti
+
+<div align="center">
+  <img src="/public/mudif.png" alt="Restyling sito MuDiF" width="500"/>
+  <p><strong>Restyling sito MuDiF</strong><br/>Rinnovamento del Museo Didattico della Fotografia con WordPress ed Elementor</p>
+
+  <img src="/public/subzilla.png" alt="App Subzilla" width="500"/>
+  <p><strong>App Subzilla</strong><br/>Applicazione mobile per la gestione degli abbonamenti</p>
+
+  <img src="/public/password-goblin.png" alt="App Password Goblin" width="500"/>
+  <p><strong>App Password Goblin</strong><br/>Tool sicuro per la gestione delle password</p>
+
+  <img src="/public/artenauta.png" alt="Sito Artenauta Teatro" width="500"/>
+  <p><strong>Sito Artenauta Teatro</strong><br/>Piattaforma digitale per la compagnia teatrale Artenauta</p>
+</div>
 
 ---
 
