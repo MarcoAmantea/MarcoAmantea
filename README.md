@@ -60,23 +60,28 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 
 ## 🌟 Progetti Importanti
 
-<p align="center">
-  <a href="https://marcoamantea.it/progetti/password-goblin">
-    <img src="/public/password-goblin.png" alt="Password Goblin" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25); margin:10px;"/>
-  </a>
-  <a href="https://marcoamantea.it/progetti/subzilla">
-    <img src="/public/subzilla.png" alt="Subzilla" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25); margin:10px;"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://marcoamantea.it/progetti/mudif">
-    <img src="/public/mudif.png" alt="Restyling MuDiF" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25); margin:10px;"/>
-  </a>
-  <a href="https://marcoamantea.it/progetti/artenauta">
-    <img src="/public/artenauta.png" alt="Artenauta Teatro" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25); margin:10px;"/>
-  </a>
-</p>
+<div align="center" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(250px,1fr)); gap:30px;">
+  <div style="padding:15px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.3); transition:transform 0.3s;">
+    <img src="/public/password-goblin.png" alt="Password Goblin" width="250" style="border-radius:15px; border:3px solid #14B8A6;"/>
+    <h3>Password Goblin</h3>
+    <p>Applicazione sicura per la gestione delle password con interfaccia semplice e veloce.</p>
+  </div>
+  <div style="padding:15px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.3); transition:transform 0.3s;">
+    <img src="/public/subzilla.png" alt="Subzilla" width="250" style="border-radius:15px; border:3px solid #14B8A6;"/>
+    <h3>Subzilla</h3>
+    <p>App mobile pensata per organizzare e monitorare tutti i tuoi abbonamenti in un unico posto.</p>
+  </div>
+  <div style="padding:15px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.3); transition:transform 0.3s;">
+    <img src="/public/mudif.png" alt="Restyling MuDiF" width="250" style="border-radius:15px; border:3px solid #14B8A6;"/>
+    <h3>Restyling MuDiF</h3>
+    <p>Nuovo sito per il Museo Didattico della Fotografia, sviluppato con WordPress ed Elementor.</p>
+  </div>
+  <div style="padding:15px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.3); transition:transform 0.3s;">
+    <img src="/public/artenauta.png" alt="Artenauta Teatro" width="250" style="border-radius:15px; border:3px solid #14B8A6;"/>
+    <h3>Artenauta Teatro</h3>
+    <p>Piattaforma digitale per la compagnia teatrale Artenauta, con calendario e sezioni multimediali.</p>
+  </div>
+</div>
 
 ---
 
@@ -84,6 +89,10 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 
 <p align="center">
   <img src="https://github.com/MarcoAmantea/MarcoAmantea/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=14b8a6" alt="Now Playing"/>
 </p>
 
 ---
@@ -100,9 +109,7 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoAmantea&theme=github-compact&area=true&hide_border=true" alt="Activity Graph" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.2);"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcoAmantea&theme=onestar&no-frame=true&margin-w=8" alt="Trophies"/>
-</p>
+
 
 ---
 
