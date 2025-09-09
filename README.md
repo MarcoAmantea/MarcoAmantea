@@ -63,11 +63,12 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 <p align="center">
   <table>
     <tr>
-      <td align="center" style="padding:20px;">
-        <img src="/public/mudif.png" alt="Restyling sito MuDiF" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-        <h3>Restyling sito MuDiF</h3>
-        <p>Rinnovamento del Museo Didattico della Fotografia con WordPress ed Elementor</p>
+    <td align="center" style="padding:20px;">
+        <img src="/public/password-goblin.png" alt="App Password Goblin" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
+        <h3>App Password Goblin</h3>
+        <p>Tool sicuro per la gestione delle password</p>
       </td>
+      
       <td align="center" style="padding:20px;">
         <img src="/public/subzilla.png" alt="App Subzilla" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
         <h3>App Subzilla</h3>
@@ -76,9 +77,9 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
     </tr>
     <tr>
       <td align="center" style="padding:20px;">
-        <img src="/public/password-goblin.png" alt="App Password Goblin" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-        <h3>App Password Goblin</h3>
-        <p>Tool sicuro per la gestione delle password</p>
+        <img src="/public/mudif.png" alt="Restyling sito MuDiF" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
+        <h3>Restyling sito MuDiF</h3>
+        <p>Rinnovamento del Museo Didattico della Fotografia con WordPress ed Elementor</p>
       </td>
       <td align="center" style="padding:20px;">
         <img src="/public/artenauta.png" alt="Sito Artenauta Teatro" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
@@ -110,6 +111,7 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 ---
 
 ## 🤝 Contatti
+
 <p align="center">
   <img src="/public/contact.png" alt="Contatti" width="300" style="border-radius:20px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
 </p>
@@ -118,5 +120,3 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
   <a href="https://marcoamantea.it"><img src="https://img.shields.io/badge/Sito-Visita-6366f1?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/marco-amantea/"><img src="https://img.shields.io/badge/LinkedIn-Connettiti-0a66c2?style=for-the-badge"/></a>
 </p>
-
-
