@@ -97,14 +97,6 @@
 </table>
 
 
-
-
-
-
-
-
----
-
 ## 📊 Statistiche
 
 <div align="center">
@@ -124,12 +116,25 @@
 <p align="center">
   <img src="https://github.com/MarcoAmantea/MarcoAmantea/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
----
+
 
 ## 🤝 Contatti
 
 <p align="center">
-  <a href="mailto:marcoamanteadeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Scrivimi-0ea5e9?style=for-the-badge"/></a>
-  <a href="https://marcoamantea.it"><img src="https://img.shields.io/badge/Sito-Visita-6366f1?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/marco-amantea/"><img src="https://img.shields.io/badge/LinkedIn-Connettiti-0a66c2?style=for-the-badge"/></a>
+  <a href="mailto:marcoamanteadeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Scrivimi-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://marcoamantea.it">
+    <img src="https://img.shields.io/badge/Sito-Visita-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marco-amantea/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connettiti-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/393407066819">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/amantea.digital/">
+    <img src="https://img.shields.io/badge/Instagram-Seguimi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
