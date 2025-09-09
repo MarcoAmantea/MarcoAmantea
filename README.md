@@ -60,28 +60,34 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 
 ## 🌟 Progetti Importanti
 
-<div align="center" style="display:grid; grid-template-columns:repeat(2, 1fr); gap:40px;">
-  <div style="background:#111827; padding:20px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.4); transition:transform 0.3s;">
-    <img src="/public/mudif.png" alt="Restyling sito MuDiF" width="100%" style="border-radius:15px;"/>
-    <h3 style="color:#14B8A6;">Restyling sito MuDiF</h3>
-    <p style="color:#d1d5db;">Rinnovamento del Museo Didattico della Fotografia con WordPress ed Elementor</p>
-  </div>
-  <div style="background:#111827; padding:20px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.4); transition:transform 0.3s;">
-    <img src="/public/subzilla.png" alt="App Subzilla" width="100%" style="border-radius:15px;"/>
-    <h3 style="color:#14B8A6;">App Subzilla</h3>
-    <p style="color:#d1d5db;">Applicazione mobile per la gestione degli abbonamenti</p>
-  </div>
-  <div style="background:#111827; padding:20px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.4); transition:transform 0.3s;">
-    <img src="/public/password-goblin.png" alt="App Password Goblin" width="100%" style="border-radius:15px;"/>
-    <h3 style="color:#14B8A6;">App Password Goblin</h3>
-    <p style="color:#d1d5db;">Tool sicuro per la gestione delle password</p>
-  </div>
-  <div style="background:#111827; padding:20px; border-radius:20px; box-shadow:0 6px 25px rgba(0,0,0,0.4); transition:transform 0.3s;">
-    <img src="/public/artenauta.png" alt="Sito Artenauta Teatro" width="100%" style="border-radius:15px;"/>
-    <h3 style="color:#14B8A6;">Sito Artenauta Teatro</h3>
-    <p style="color:#d1d5db;">Piattaforma digitale per la compagnia teatrale Artenauta</p>
-  </div>
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding:20px;">
+        <img src="/public/mudif.png" alt="Restyling sito MuDiF" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
+        <h3>Restyling sito MuDiF</h3>
+        <p>Rinnovamento del Museo Didattico della Fotografia con WordPress ed Elementor</p>
+      </td>
+      <td align="center" style="padding:20px;">
+        <img src="/public/subzilla.png" alt="App Subzilla" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
+        <h3>App Subzilla</h3>
+        <p>Applicazione mobile per la gestione degli abbonamenti</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:20px;">
+        <img src="/public/password-goblin.png" alt="App Password Goblin" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
+        <h3>App Password Goblin</h3>
+        <p>Tool sicuro per la gestione delle password</p>
+      </td>
+      <td align="center" style="padding:20px;">
+        <img src="/public/artenauta.png" alt="Sito Artenauta Teatro" width="300" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
+        <h3>Sito Artenauta Teatro</h3>
+        <p>Piattaforma digitale per la compagnia teatrale Artenauta</p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -105,7 +111,7 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 
 ## 🤝 Contatti
 <p align="center">
-  <img src="/public/contact.png" alt="Contatti" width="400" style="border-radius:20px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
+  <img src="/public/contact.png" alt="Contatti" width="300" style="border-radius:20px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
 </p>
 <p align="center">
   <a href="mailto:marcoamanteadeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Scrivimi-0ea5e9?style=for-the-badge"/></a>
