@@ -3,10 +3,9 @@
 <!-- TYPING INTRO -->
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=14B8A6&center=true&vCenter=true&width=1000&lines=Ciao%2C+sono+Marco+Amantea;Web+Developer+e+Web+Designer;Frontend+%2B+UI%2FUX;Design+System+%2B+Performance;Progetti+Moderni+%2B+Interattivi" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=14B8A6&center=true&vCenter=true&width=1000&lines=Ciao%2C+sono+Marco+Amantea;Web+Developer+e+Web+Designer;Frontend+%2B+UI%2FUX;Design+System+%2B+Performance;Progetti+Moderni+%2B+Interattivi" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Ciao%2C+sono+Marco+Amantea;Web+Developer+e+Web+Designer;Frontend+UI%2FUX;Design+System+e+Performance;Progetti+Moderni+e+Interattivi"/>
 </p>
+
 
 <!-- QUICK FACTS -->
 
