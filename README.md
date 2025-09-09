@@ -3,8 +3,9 @@
 <!-- TYPING INTRO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Ciao%2C+sono+Marco+Amantea;Web+Developer+e+Web+Designer;Frontend+UI%2FUX;Design+System+e+Performance;Progetti+Moderni+e+Interattivi"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Ciao%2C+sono+Marco+Amantea;Web+Developer+e+Web+Designer;Frontend+UI%2FUX;Design+System+e+Performance;Progetti+Moderni+e+Interattivi"/>
 </p>
+
 
 
 <!-- QUICK FACTS -->
