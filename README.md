@@ -1,8 +1,4 @@
-<!-- HERO BANNER -->
 
-<p align="center">
-  <img src="/banner.svg" alt="Marco Amantea — Web Developer & Web Designer" width="100%"/>
-</p>
 
 <!-- TYPING INTRO -->
 
@@ -27,13 +23,26 @@
 ## 🚀 Chi sono
 
 <p align="center">
-Creo interfacce moderne, accessibili e performanti. Trasformo idee in esperienze digitali fluide e curate nei dettagli.<br/>
-React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
+  <strong>Ciao, sono Marco Amantea</strong><br/>
+  Web Developer & Web Designer con esperienza nello sviluppo di applicazioni moderne e performanti.
+</p>
+
+<ul>
+  <li>🎨 <strong>UI/UX Designer</strong> — Creo interfacce chiare, intuitive e responsive</li>
+  <li>⚛️ <strong>Frontend Specialist</strong> — React, TypeScript e componenti dinamici</li>
+  <li>🗄️ <strong>Database & Backend</strong> — MySQL, API REST, integrazione servizi</li>
+  <li>🚀 <strong>Performance & Accessibilità</strong> — Codice ottimizzato, siti veloci e inclusivi</li>
+  <li>📱 <strong>Mobile & Web App</strong> — Esperienze cross-platform con React Native</li>
+</ul>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" style="border-radius:20px; box-shadow:0 4px 20px rgba(0,0,0,0.3);"/>
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdvZGc0eTIxdjRzNDQ4MmxybWM2Mmk4bm04Mmt0M3R3dGl5aDB4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif" width="500" alt="Coding man GIF" style="border-radius:20px; box-shadow:0 4px 20px rgba(0,0,0,0.3);"/>
+  Amo trasformare le idee in esperienze digitali concrete, con un’attenzione maniacale ai dettagli, al design system e alla user experience.
 </p>
+
 
 ---
 
@@ -88,11 +97,9 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
 </table>
 
 
-## 🎮 Game Snake
 
-<p align="center">
-  <img src="https://github.com/MarcoAmantea/MarcoAmantea/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+
+
 
 
 
@@ -114,13 +121,13 @@ React, TypeScript, UI/UX e performance sono il mio pane quotidiano.
   <img src="https://github-profile-trophy.vercel.app/?username=MarcoAmantea&theme=onestar&no-frame=true&margin-w=8" alt="Trophies"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/MarcoAmantea/MarcoAmantea/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 ---
 
 ## 🤝 Contatti
 
-<p align="center">
-  <img src="/public/contact.png" alt="Contatti" width="300" style="border-radius:20px; box-shadow:0 4px 20px rgba(0,0,0,0.25);"/>
-</p>
 <p align="center">
   <a href="mailto:marcoamanteadeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Scrivimi-0ea5e9?style=for-the-badge"/></a>
   <a href="https://marcoamantea.it"><img src="https://img.shields.io/badge/Sito-Visita-6366f1?style=for-the-badge"/></a>
