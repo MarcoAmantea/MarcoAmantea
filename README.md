@@ -85,12 +85,12 @@
   <tr>
     <td align="center" width="300">
       <img src="/public/mudif.png" width="250"/><br/>
-      <strong>Restyling MuDiF</strong><br/>
+      <strong>Sito Web MuDiF</strong><br/>
       Nuovo sito del Museo Didattico della Fotografia
     </td>
     <td align="center" width="300">
       <img src="/public/artenauta.png" width="250"/><br/>
-      <strong>Artenauta Teatro</strong><br/>
+      <strong>Sito Web Compagnia Teatrale Sipario Aperto</strong><br/>
       Piattaforma digitale per la compagnia teatrale
     </td>
   </tr>
