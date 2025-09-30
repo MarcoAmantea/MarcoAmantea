@@ -72,26 +72,34 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="/public/password-goblin.png" width="250"/><br/>
-      <strong>Password Goblin</strong><br/>
-      Applicazione sicura per la gestione delle password
+      <a href="https://play.google.com/store/apps/details?id=com.password.goblin" target="_blank">
+        <img src="/public/password-goblin.png" width="250"/><br/>
+        <strong>Password Goblin</strong><br/>
+        Applicazione sicura per la gestione delle password
+      </a>
     </td>
     <td align="center" width="300">
-      <img src="/public/subzilla.png" width="250"/><br/>
-      <strong>Subzilla</strong><br/>
-      App per gestire e monitorare tutti i tuoi abbonamenti
+      <a href="https://play.google.com/store/apps/details?id=com.ienashow.abbonamentiapp&fbclid=PAZXh0bgNhZW0CMTEAAadCegmvZaaaoX36_S0bCkIlbtN-v2EI0OMQH-UErqrW2apHbIM5TfRkhvH2ww_aem_zbZ37Nsgg-pWHbqy3FKHDA" target="_blank">
+        <img src="/public/subzilla.png" width="250"/><br/>
+        <strong>Subzilla</strong><br/>
+        App per gestire e monitorare tutti i tuoi abbonamenti
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
-      <img src="/public/mudif.png" width="250"/><br/>
-      <strong>Sito Web MuDiF</strong><br/>
-      Nuovo sito del Museo Didattico della Fotografia
+      <a href="https://ildidrammo.com" target="_blank">
+        <img src="/public/mudif.png" width="250"/><br/>
+        <strong>Sito Web MuDiF</strong><br/>
+        Nuovo sito del Museo Didattico della Fotografia
+      </a>
     </td>
     <td align="center" width="300">
-      <img src="/public/artenauta.png" width="250"/><br/>
-      <strong>Sito Web Compagnia Teatrale Sipario Aperto</strong><br/>
-      Piattaforma digitale per la compagnia teatrale
+      <a href="https://teatrolalocandina.com" target="_blank">
+        <img src="/public/artenauta.png" width="250"/><br/>
+        <strong>Sito Web Compagnia Teatrale Sipario Aperto</strong><br/>
+        Piattaforma digitale per la compagnia teatrale
+      </a>
     </td>
   </tr>
 </table>
