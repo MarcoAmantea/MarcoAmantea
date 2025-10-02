@@ -101,7 +101,7 @@
       <img src="/public/artenauta.png" width="250"/><br/>
       <strong>Sito Web Compagnia Teatrale Sipario Aperto</strong><br/>
       Piattaforma digitale per la compagnia teatrale<br/>
-      <a href="https://teatrolalocandina.com" target="_blank">
+      <a href="https://teatrolalocandina.it" target="_blank">
         🔗 Clicca per vedere live il progetto
       </a>
     </td>
