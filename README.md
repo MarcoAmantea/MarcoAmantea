@@ -75,7 +75,7 @@
       <img src="/public/password-goblin.png" width="250"/><br/>
       <strong>Password Goblin</strong><br/>
       Applicazione sicura per la gestione delle password<br/>
-      <a href="[https://play.google.com/store/apps/details?id=com.password.goblin](https://play.google.com/store/apps/details?id=com.subzillamark.passwordgoblin&hl=it)" target="_blank">
+      <a href="https://play.google.com/store/apps/details?id=com.subzillamark.passwordgoblin&hl=it" target="_blank">
         🔗 Clicca per vedere live il progetto
       </a>
     </td>
