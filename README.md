@@ -62,19 +62,26 @@
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="52" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="52" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="52" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="52" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" height="52" alt="Strapi" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="52" alt="WordPress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="52" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Strapi-0f172a?style=for-the-badge&logo=strapi&logoColor=8E75FF" alt="Strapi" />
+  <img src="https://img.shields.io/badge/Storybook-0f172a?style=for-the-badge&logo=storybook&logoColor=FF4785" alt="Storybook" />
+  <img src="https://img.shields.io/badge/WordPress-0f172a?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 </p>
 
 <p align="center">
@@ -82,7 +89,6 @@
   <img src="https://img.shields.io/badge/Accessibilità-ARIA%20Ready-0E79F2?style=for-the-badge" alt="Accessibilità" />
   <img src="https://img.shields.io/badge/Design%20System-Scalabile-0E79F2?style=for-the-badge" alt="Design System" />
 </p>
-
 ---
 
 ## 🌟 Progetti
