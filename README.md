@@ -61,17 +61,28 @@
 
 ## 🧰 Toolbox
 
+<br/>
+
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"/>
-  <img src="https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="58" alt="HTML5" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="58" alt="CSS3" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="58" alt="JavaScript" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="58" alt="TypeScript" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="58" alt="React" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="58" alt="Next.js" />
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="58" alt="Tailwind CSS" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="58" alt="Bootstrap" />
 </p>
 
 ---
@@ -79,10 +90,11 @@
 ### ⚙️ Backend & Database
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="58" alt="Firebase" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="58" alt="MySQL" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="58" alt="PostgreSQL" />
 </p>
 
 ---
@@ -90,8 +102,9 @@
 ### 🧩 CMS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Strapi-0f172a?style=for-the-badge&logo=strapi&logoColor=8E75FF"/>
-  <img src="https://img.shields.io/badge/WordPress-0f172a?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
+  <img src="https://cdn.simpleicons.org/strapi/8E75FF" height="58" alt="Strapi" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="58" alt="WordPress" />
 </p>
 
 ---
@@ -99,17 +112,19 @@
 ### 🛠 Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="Storybook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="58" alt="VS Code" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="58" alt="Git" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="58" alt="Storybook" />
 </p>
 
----
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Performance-Lighthouse%2095%2B-2CD562?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Accessibilità-ARIA%20Ready-0E79F2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Design%20System-Scalabile-0E79F2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance-Lighthouse%2095%2B-2CD562?style=for-the-badge" alt="Performance" />
+  <img src="https://img.shields.io/badge/Accessibilità-ARIA%20Ready-0E79F2?style=for-the-badge" alt="Accessibilità" />
+  <img src="https://img.shields.io/badge/Design%20System-Scalabile-0E79F2?style=for-the-badge" alt="Design System" />
 </p>
 ---
 
