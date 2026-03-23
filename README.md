@@ -61,33 +61,55 @@
 
 ## 🧰 Toolbox
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" />
-</p>
+### 🎨 Frontend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Strapi-0f172a?style=for-the-badge&logo=strapi&logoColor=8E75FF" alt="Strapi" />
-  <img src="https://img.shields.io/badge/Storybook-0f172a?style=for-the-badge&logo=storybook&logoColor=FF4785" alt="Storybook" />
-  <img src="https://img.shields.io/badge/WordPress-0f172a?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress" />
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-</p>
+---
+
+### ⚙️ Backend & Database
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Performance-Lighthouse%2095%2B-2CD562?style=for-the-badge" alt="Performance" />
-  <img src="https://img.shields.io/badge/Accessibilità-ARIA%20Ready-0E79F2?style=for-the-badge" alt="Accessibilità" />
-  <img src="https://img.shields.io/badge/Design%20System-Scalabile-0E79F2?style=for-the-badge" alt="Design System" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+</p>
+
+---
+
+### 🧩 CMS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Strapi-0f172a?style=for-the-badge&logo=strapi&logoColor=8E75FF"/>
+  <img src="https://img.shields.io/badge/WordPress-0f172a?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
+</p>
+
+---
+
+### 🛠 Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Storybook-0f172a?style=for-the-badge&logo=storybook&logoColor=FF4785"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Performance-Lighthouse%2095%2B-2CD562?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Accessibilità-ARIA%20Ready-0E79F2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Design%20System-Scalabile-0E79F2?style=for-the-badge"/>
 </p>
 ---
 
