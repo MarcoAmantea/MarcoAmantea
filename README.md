@@ -99,7 +99,7 @@
 ### 🛠 Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Storybook-0f172a?style=for-the-badge&logo=storybook&logoColor=FF4785"/>
 </p>
