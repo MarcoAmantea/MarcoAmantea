@@ -201,8 +201,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcoAmantea&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=MarcoAmantea&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/></p>
 
 <p align="center">
   <img src="https://github.com/MarcoAmantea/MarcoAmantea/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
