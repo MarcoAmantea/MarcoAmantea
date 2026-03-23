@@ -96,7 +96,7 @@
   </tr>
   <tr>
     <td align="center" width="300">
-      <img src="https://raw.githubusercontent.com/MarcoAmantea/MarcoAmantea/main/public/mudif.png" width="250" alt="MuDiF"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/MarcoAmantea/MarcoAmantea/main/mudif.png" width="250" alt="MuDiF"/><br/><br/>
       <strong>🖼️ Sito Web MuDiF</strong><br/>
       Nuovo sito del Museo Didattico della Fotografia.<br/><br/>
       <a href="https://ildidrammo.com" target="_blank">
