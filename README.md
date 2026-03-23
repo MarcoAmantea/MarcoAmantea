@@ -104,7 +104,7 @@
       </a>
     </td>
     <td align="center" width="300">
-      <img src="https://raw.githubusercontent.com/MarcoAmantea/MarcoAmantea/main/public/amalfira.png" width="250" alt="AmalfiRa Luxury Seaview Rooftop"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/MarcoAmantea/MarcoAmantea/main/amalfi.png" width="250" alt="AmalfiRa Luxury Seaview Rooftop"/><br/><br/>
       <strong>🌊 AmalfiRa Luxury Seaview Rooftop</strong><br/>
       Sito elegante e immersivo per struttura ricettiva di lusso.<br/><br/>
       <a href="http://amalfiraluxuryseaviewrooftop.com/" target="_blank">
