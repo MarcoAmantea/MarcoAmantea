@@ -99,7 +99,7 @@
 ### 🛠 Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Storybook-0f172a?style=for-the-badge&logo=storybook&logoColor=FF4785"/>
 </p>
@@ -113,7 +113,7 @@
 </p>
 ---
 
-## 🌟 Progetti
+## 🌟 Progetti Recenti / Principali
 
 <table align="center">
   <tr>
