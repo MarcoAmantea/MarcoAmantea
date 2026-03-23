@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20React%20Native-0E79F2?style=for-the-badge" alt="Frontend" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Design%20System%20%7C%20WordPress-2CD562?style=for-the-badge" alt="UI UX" />
-  <img src="https://img.shields.io/badge/Languages-JS%20%7C%20TS%20%7C%20HTML%20%7C%20CSS-0f172a?style=for-the-badge" alt="Languages" />
-  <img src="https://img.shields.io/badge/Backend-API%20REST%20%7C%20MySQL-0E79F2?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-0E79F2?style=for-the-badge" alt="Frontend" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design%20System%20%7C%20Responsive-2CD562?style=for-the-badge" alt="UI UX" />
+  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20HTML%20%7C%20CSS-0f172a?style=for-the-badge" alt="Languages" />
+  <img src="https://img.shields.io/badge/Backend-Firebase%20%7C%20Strapi%20%7C%20PostgreSQL-0E79F2?style=for-the-badge" alt="Backend" />
   <img src="https://komarev.com/ghpvc/?username=MarcoAmantea&style=for-the-badge&label=Visite" alt="Profile views" />
 </p>
 
