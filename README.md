@@ -82,7 +82,9 @@
 ### 🧩 CMS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=strapi,wordpress" height="58" />
+  <img src="https://cdn.simpleicons.org/strapi/8E75FF" height="58" alt="Strapi" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=wordpress" height="58" />
 </p>
 
 ---
@@ -90,7 +92,9 @@
 ### 🛠 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,storybook" height="58" />
+  <img src="https://skillicons.dev/icons?i=vscode,git" height="58" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/storybook/FF4785" height="58" alt="Storybook" />
 </p>
 
 <br/>
