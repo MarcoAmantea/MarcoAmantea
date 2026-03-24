@@ -93,7 +93,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git" height="58" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br/>
