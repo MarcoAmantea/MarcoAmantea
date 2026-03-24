@@ -89,16 +89,10 @@
 
 ### ⚙️ Backend & Database
 
+### ⚙️ Backend & Database
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="58" alt="Node.js" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="58" alt="Express" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="58" alt="Firebase" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="58" alt="MySQL" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="58" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgres" height="58" />
 </p>
 
 ---
