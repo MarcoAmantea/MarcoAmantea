@@ -94,7 +94,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git" height="58" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" style="background-color:#1e1e1e; padding:9px; border-radius:10px;" />
 </p>
 
 <br/>
