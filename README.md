@@ -82,8 +82,7 @@
 ### 🧩 CMS
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/strapi/8E75FF" height="40" style="background-color:#1e1e1e; padding:9px; border-radius:10px;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/strapi/8E75FF" height="48" style="background-color:#1e1e1e; padding:9px; border-radius:10px;" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="58" />
 </p>
 
