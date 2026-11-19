@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Marco Amantea — Web Developer e Web Designer</title>
+  <desc id="desc">Banner con gradiente fluido e testo tipografico moderno</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="50"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="420" fill="#0b1220"/>
+  <g filter="url(#blur)" opacity="0.5">
+    <circle cx="350" cy="280" r="220" fill="url(#g1)"/>
+    <circle cx="1250" cy="120" r="260" fill="url(#g1)"/>
+  </g>
+  <g>
+    <text x="100" y="190" fill="#e5e7eb" font-family="'Inter',system-ui,-apple-system,Segoe UI,Roboto" font-size="54" font-weight="800">Marco Amantea</text>
+    <text x="100" y="245" fill="#93c5fd" font-family="'Inter',system-ui,-apple-system,Segoe UI,Roboto" font-size="28" font-weight="600">Web Developer • Web Designer</text>
+    <text x="100" y="295" fill="#a7f3d0" font-family="'Inter',system-ui,-apple-system,Segoe UI,Roboto" font-size="18">React, Angular, Node, TypeScript, UI/UX, performance, accessibilità</text>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 80" width="1100" height="80" role="img" aria-label="Dalla prima idea al lancio: discover, design, develop, deploy">
+<defs><linearGradient id="bar"><stop stop-color="#26A9FF"/><stop offset="1" stop-color="#31DF99"/></linearGradient><style>.t{font:600 16px 'DejaVu Sans Mono',monospace}.p{animation:f 2.8s ease-in-out infinite}@keyframes f{50%{opacity:.28}}@media(prefers-reduced-motion:reduce){.p{animation:none}}</style></defs>
+<rect x="0" y="0" width="1100" height="80" rx="18" fill="#091827" stroke="#27445A"/>
+<path d="M120 40 H1000" stroke="url(#bar)" stroke-width="2" stroke-dasharray="8 9"/>
+<g fill="#091827" stroke="url(#bar)" stroke-width="2"><circle cx="122" cy="40" r="14"/><circle cx="410" cy="40" r="14"/><circle cx="700" cy="40" r="14"/><circle cx="982" cy="40" r="14"/></g>
+<g fill="#D9E7F6" class="t" text-anchor="middle"><text x="122" y="16">DISCOVER</text><text x="410" y="16">DESIGN</text><text x="700" y="16">DEVELOP</text><text x="982" y="16">DEPLOY</text></g>
+<g fill="#35D9AE" class="p"><circle cx="122" cy="40" r="5"/><circle cx="410" cy="40" r="5"/><circle cx="700" cy="40" r="5"/><circle cx="982" cy="40" r="5"/></g>
+</svg>
