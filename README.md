@@ -193,7 +193,7 @@ Una selezione di prodotti digitali e progetti web già presenti nel mio portfoli
   <a href="mailto:marcoamanteadeveloper@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Start_a_conversation-0E79F2?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Scrivimi via email" /></a>
   <a href="https://marcoamantea.it"><img src="https://img.shields.io/badge/WEBSITE-marcoamantea.it-2CD562?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=092032" alt="Visita il sito" /></a>
   <a href="https://www.linkedin.com/in/marco-amantea/"><img src="https://img.shields.io/badge/LINKEDIN-Let's_connect-12273A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Collegati su LinkedIn" /></a>
-  <a href="https://www.instagram.com/amantea.digital/"><img src="https://img.shields.io/badge/INSTAGRAM-amantea.digital-12273A?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Profilo Instagram" /></a>
+  <a href="https://www.instagram.com/marcoamantea.dev/"><img src="https://img.shields.io/badge/INSTAGRAM-marcoamantea.dev-12273A?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Profilo Instagram" /></a>
 </p>
 
 <div align="center">
